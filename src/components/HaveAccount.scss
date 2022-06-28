@@ -1,0 +1,14 @@
+.have--account {
+  margin-top: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    color: #000;
+    font-size: 1rem;
+    font-weight: bold;
+    white-space: nowrap;
+    cursor: pointer;
+    margin-left: 3px;
+  }
+}
