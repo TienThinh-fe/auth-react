@@ -6,7 +6,7 @@ import "./Button.scss";
 const ButtonLink = ({ text }) => {
   return (
     <div className="button--wrapper">
-      <Link className="button--normal" to="/sign-up">
+      <Link className="button--normal link" to="/sign-up">
         {text}
       </Link>
     </div>

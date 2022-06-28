@@ -4,6 +4,7 @@ import "./App.scss";
 import Home from "./pages/Home";
 import SignUp from "./pages/SignUp";
 import SignIn from "./pages/SignIn";
+import app from "./firebase";
 
 function App() {
   return (
